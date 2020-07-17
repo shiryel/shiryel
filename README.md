@@ -37,6 +37,6 @@ Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoV
 
 ---
 
-*side note: This is one of my crazy ideas after my shiryel repo [that originaly had my game] became "special", feel free to use this idea on your github :kissing_smiling_eyes: (if you want, mention is apreciated :trollface:)*
+*side note: This is one of my crazy ideas after my shiryel repo [that originaly had my game] became "special", feel free to use this idea on your github :kissing_smiling_eyes:*
  
  Its all fellas, in this point below you can have your normal github experience
