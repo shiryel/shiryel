@@ -2,11 +2,9 @@
 
 Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things ~~[and some hiden meme](https://youtu.be/M26wmKY-e3I)[s](https://youtu.be/O4NWhjwa3Ns)~~
 
----
-
 #### Who am i?
 
-Just a fenfen that loves to learn new things, mess around with some [ideas](https://www.shiryel.com/), [fluffiness](https://http.cat/), 
+Just a fenfen that :two_hearts: to learn new things, mess around with some [ideas](https://www.shiryel.com/), [fluffiness](https://http.cat/), 
 [mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/Yqy7_zUKyNQ)[cs](https://youtu.be/FF3Dr3_h0Hw) and
 [a](https://youtu.be/EYTLY17Io3c)[n](https://youtu.be/tuHe9lm5vUE)[i](https://youtu.be/ugH0YaBSaYk)[m](https://youtu.be/-PKNuZovuSw)[a](https://youtu.be/DRkgH7Uu-hA)[t](https://youtu.be/QZPSXI43P-I)[i](https://youtu.be/lIES3ii-IOg)[o](https://youtu.be/YgGzAKP_HuM)[s](https://youtu.be/ZZ5LpwO-An4),
 want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
