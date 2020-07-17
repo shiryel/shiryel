@@ -2,7 +2,7 @@
 
 Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things ~~[and some hiden meme](https://youtu.be/M26wmKY-e3I)[s](https://youtu.be/O4NWhjwa3Ns)~~
 
-#### Who am i?
+##### Who am I?
 
 Just a fenfen that :two_hearts: to learn new things, mess around with some [ideas](https://www.shiryel.com/), [fluffiness](https://http.cat/), 
 [mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/Yqy7_zUKyNQ)[cs](https://youtu.be/FF3Dr3_h0Hw) and
