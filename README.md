@@ -14,7 +14,7 @@ Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
 
 ---
 
-:pill: Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my ~~failures~~ projects :joy_cat: 
+:pill: Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects :joy_cat: 
 
 ### :unlock: Open projects
 Name | Description | Status | [Zelda](https://youtu.be/4r9S2yEiuME)
