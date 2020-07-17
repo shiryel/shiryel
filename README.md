@@ -1,6 +1,6 @@
 ## [Hey you!, you're finally awake](https://youtu.be/_WZCvQ5J3pk)
 
-Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things ~~[and some hiden meme](https://youtu.be/M26wmKY-e3I)[s](https://youtu.be/woT0cM5a5Co)~~
+Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things
 
 ##### Who am I?
 
