@@ -2,7 +2,7 @@
 
 Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&hide=javascript,html" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&hide=html" />
 
 ##### Who am I?
 
