@@ -2,6 +2,8 @@
 
 Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&hide=javascript,html" />
+
 ##### Who am I?
 
 Just a fenfen that loves to learn new things, mess around with some [ideas](https://www.shiryel.com/), draw and see some [fluffiness](https://http.cat/), 
@@ -38,6 +40,6 @@ Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoV
 
 ---
 
-*side note: This is one of my crazy ideas after my shiryel repo [that originaly had my game] became "special", feel free to use this idea on your github :kissing_smiling_eyes:*
+*side note: This is one of my crazy ideas after my shiryel repo [that originaly had my game] became "special" :kissing_smiling_eyes:*
  
- Its all fellas, in this point below you can have your normal github experience
+ Its all fellas, now you can have your normal github experience
