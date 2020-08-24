@@ -12,7 +12,8 @@ Now, you have 2 choices, you can take the blue pill and leave or take the red pi
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
 -----|-------------|--------|------
-[Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Generic badge](https://img.shields.io/badge/Status-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
+[Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/Status-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
+[Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/Status-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance) | [Link](https://github.com/shiryel/poligonic)
 
 ### :unlock: Open projects
 Name | Description | Status | [Zelda](https://youtu.be/4r9S2yEiuME)
@@ -20,7 +21,7 @@ Name | Description | Status | [Zelda](https://youtu.be/4r9S2yEiuME)
 [SAoS](https://shiryel.github.io/saos/) | A small component to make your CSS animations work on scroll with Svelte | [![NPM version](https://img.shields.io/npm/v/saos.svg?style=flat)](https://npmjs.org/package/saos) | [Link](https://github.com/shiryel/saos)
 Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.com/vinicius-molina/fatex/workflows/tests/badge.svg?branch=master) | [Link](https://github.com/shiryel/fatex)
 [Video P2P](https://www.webrtc.shiryel.com/) [WIP] | Attempt on creating a P2P web video calls | ![Server Push CD](https://github.com/shiryel/videochat_p2p/workflows/Server%20Push%20CD/badge.svg) ![Client Push CD](https://github.com/shiryel/videochat_p2p/workflows/Client%20Push%20CD/badge.svg) ![Server Test CI](https://github.com/shiryel/videochat_p2p/workflows/Server%20Test%20CI/badge.svg) | [Link](https://github.com/shiryel/videochat_p2p)
-[Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) [unfinished] | Attempt on creating a game with Flutter |  | [Link](https://github.com/shiryel/poligonic)
+
 
 ### :lock_with_ink_pen: Personal projects
 Name | Description | Status | [Zelda](https://youtu.be/7F1rLleHVag)
@@ -31,7 +32,7 @@ Sway dotfiles | My current Linux configuration, with Sway and wayland |  | [Link
 i3-gaps dotfiles | My old i3-gaps dotfiles |  | [Link](https://github.com/shiryel/i3gaps-dotfiles)
 NixOS dotfiles | My NixOS dotfiles |  | [Link](https://github.com/shiryel/nixos-dotfiles)
 Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoVim-configs)
-[Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | **YES** | [Link](https://youtu.be/dQw4w9WgXcQ)
+[Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/dQw4w9WgXcQ)
 
 ---
 
