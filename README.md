@@ -4,20 +4,14 @@ Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ useful
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&hide=html" />
 
-##### Who am I?
-
-Just a fenfen that loves to learn new things, mess around with some [ideas](https://www.shiryel.com/), draw and see some [fluffiness](https://http.cat/), 
-[mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/slze868xkPI)[cs](https://youtu.be/FF3Dr3_h0Hw) and
-[a](https://youtu.be/EYTLY17Io3c)[n](https://youtu.be/tuHe9lm5vUE)[i](https://youtu.be/ugH0YaBSaYk)[m](https://youtu.be/-PKNuZovuSw)[a](https://youtu.be/DRkgH7Uu-hA)[t](https://youtu.be/QZPSXI43P-I)[i](https://youtu.be/lIES3ii-IOg)[o](https://youtu.be/YgGzAKP_HuM)[s](https://youtu.be/ZZ5LpwO-An4).
-
-Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
-> [My channel on telegram](https://t.me/shiryelden)
-
-![fennec](https://github.com/shiryel/shiryel/blob/master/fennec.jpg?raw=true)
-
 ---
 
 Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects :pill:
+
+### :video_game: Games
+Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
+-----|-------------|--------|------
+[Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | Published | [Link](https://github.com/shiryel/dungeon-dance-dance)
 
 ### :unlock: Open projects
 Name | Description | Status | [Zelda](https://youtu.be/4r9S2yEiuME)
@@ -30,7 +24,6 @@ Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.c
 ### :lock_with_ink_pen: Personal projects
 Name | Description | Status | [Zelda](https://youtu.be/7F1rLleHVag)
 -----|-------------|--------|------
-[Game: Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | Published | [Link](https://github.com/shiryel/dungeon-dance-dance)
 [My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Push to AWS [CD]](https://github.com/shiryel/shiryel_blog/workflows/Push%20to%20AWS%20%5BCD%5D/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
 [Shiryel's Minigame](https://www.shiryel.com/) [WIP] | A mini web game to learn godot | ![Godot Push CD](https://github.com/shiryel/shiryel_game/workflows/Godot%20Push%20CD/badge.svg) | [Link](https://github.com/shiryel/shiryel_game)
 Sway dotfiles | My current Linux configuration, with Sway and wayland |  | [Link](https://github.com/shiryel/sway-dotfiles)
@@ -38,6 +31,19 @@ i3-gaps dotfiles | My old i3-gaps dotfiles |  | [Link](https://github.com/shirye
 NixOS dotfiles | My NixOS dotfiles |  | [Link](https://github.com/shiryel/nixos-dotfiles)
 Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoVim-configs)
 [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | **YES** | [Link](https://youtu.be/dQw4w9WgXcQ)
+
+---
+
+##### Who am I?
+
+Just a fenfen that loves to learn new things, mess around with some [ideas](https://www.shiryel.com/), draw and see some [fluffiness](https://http.cat/), 
+[mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/slze868xkPI)[cs](https://youtu.be/FF3Dr3_h0Hw) and
+[a](https://youtu.be/EYTLY17Io3c)[n](https://youtu.be/tuHe9lm5vUE)[i](https://youtu.be/ugH0YaBSaYk)[m](https://youtu.be/-PKNuZovuSw)[a](https://youtu.be/DRkgH7Uu-hA)[t](https://youtu.be/QZPSXI43P-I)[i](https://youtu.be/lIES3ii-IOg)[o](https://youtu.be/YgGzAKP_HuM)[s](https://youtu.be/ZZ5LpwO-An4).
+
+Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
+> [My channel on telegram](https://t.me/shiryelden)
+
+![fennec](https://github.com/shiryel/shiryel/blob/master/fennec.jpg?raw=true)
 
 ---
 
