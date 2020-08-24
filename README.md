@@ -16,7 +16,7 @@ Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
 [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance) | [Link](https://github.com/shiryel/poligonic)
 
 ### :unlock: Open projects
-Name | Description | Status | [Zelda](https://youtu.be/4r9S2yEiuME)
+Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
 -----|-------------|--------|------
 [SAoS](https://shiryel.github.io/saos/) | A small component to make your CSS animations work on scroll with Svelte | [![NPM version](https://img.shields.io/npm/v/saos.svg?style=flat)](https://npmjs.org/package/saos) | [Link](https://github.com/shiryel/saos)
 Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.com/vinicius-molina/fatex/workflows/tests/badge.svg?branch=master) | [Link](https://github.com/shiryel/fatex)
@@ -24,7 +24,7 @@ Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.c
 
 
 ### :lock_with_ink_pen: Personal projects
-Name | Description | Status | [Zelda](https://youtu.be/7F1rLleHVag)
+Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 -----|-------------|--------|------
 [My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Push to AWS [CD]](https://github.com/shiryel/shiryel_blog/workflows/Push%20to%20AWS%20%5BCD%5D/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
 [Shiryel's Minigame](https://www.shiryel.com/) [WIP] | A mini web game to learn godot | ![Godot Push CD](https://github.com/shiryel/shiryel_game/workflows/Godot%20Push%20CD/badge.svg) | [Link](https://github.com/shiryel/shiryel_game)
