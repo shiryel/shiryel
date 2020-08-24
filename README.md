@@ -11,7 +11,7 @@ Now, you have 2 choices, you can take the blue pill and leave or take the red pi
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
 -----|-------------|--------|------
-[Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | Published | [Link](https://github.com/shiryel/dungeon-dance-dance)
+[Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Generic badge](https://img.shields.io/badge/Status-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
 
 ### :unlock: Open projects
 Name | Description | Status | [Zelda](https://youtu.be/4r9S2yEiuME)
