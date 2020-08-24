@@ -40,7 +40,7 @@ Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoV
 
 Just a fenfen that loves to learn new things, mess around with some [ideas](https://www.shiryel.com/), draw and see some [fluffiness](https://http.cat/), 
 [mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/slze868xkPI)[cs](https://youtu.be/FF3Dr3_h0Hw) and
-[a](https://youtu.be/EYTLY17Io3c)[n](https://youtu.be/tuHe9lm5vUE)[i](https://youtu.be/ugH0YaBSaYk)[m](https://youtu.be/-PKNuZovuSw)[a](https://youtu.be/DRkgH7Uu-hA)[t](https://youtu.be/QZPSXI43P-I)[i](https://youtu.be/lIES3ii-IOg)[o](https://youtu.be/YgGzAKP_HuM)[s](https://youtu.be/ZZ5LpwO-An4).
+[a](https://youtu.be/EYTLY17Io3c)[n](https://youtu.be/tuHe9lm5vUE)[i](https://youtu.be/ugH0YaBSaYk)[m](https://youtu.be/-PKNuZovuSw)[a](https://youtu.be/DRkgH7Uu-hA)[t](https://youtu.be/QZPSXI43P-I)[i](https://youtu.be/lIES3ii-IOg)[o](https://youtu.be/YgGzAKP_HuM)[n](https://youtu.be/hoYxHBlT-4I)[s](https://youtu.be/JJxflcxRkhI).
 
 Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
 > [My channel on telegram](https://t.me/shiryelden)
