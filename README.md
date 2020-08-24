@@ -2,7 +2,8 @@
 
 Welcome to my litle tech space :paw_prints:, here you can find ~~not so~~ usefull things
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&hide=html" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile" />
 
 ---
 
