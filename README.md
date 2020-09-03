@@ -1,6 +1,6 @@
 ## [Hey you!, you're finally awake](https://youtu.be/_WZCvQ5J3pk)
 
-Welcome to my litle tech space :paw_prints: ... **warning**: bugs ahead
+Welcome to my litle tech space :paw_prints: **warning**: bugs ahead
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile" />
