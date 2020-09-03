@@ -26,7 +26,7 @@ Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.c
 ### :lock_with_ink_pen: Personal projects
 Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 -----|-------------|--------|------
-[My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Push to AWS [CD]](https://github.com/shiryel/shiryel_blog/workflows/Push%20to%20AWS%20%5BCD%5D/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
+[My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Deploy to GitHub Pages](https://github.com/shiryel/shiryel_blog/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)(https://github.com/shiryel/shiryel_blog/workflows/Push%20to%20AWS%20%5BCD%5D/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
 [Shiryel's Minigame](https://www.shiryel.com/) [WIP] | A mini web game to learn godot | ![Godot Push CD](https://github.com/shiryel/shiryel_game/workflows/Godot%20Push%20CD/badge.svg) | [Link](https://github.com/shiryel/shiryel_game)
 Sway dotfiles | My current Linux configuration, with Sway and wayland |  | [Link](https://github.com/shiryel/sway-dotfiles)
 i3-gaps dotfiles | My old i3-gaps dotfiles |  | [Link](https://github.com/shiryel/i3gaps-dotfiles)
