@@ -14,7 +14,7 @@ For job interviews and self-reminder
 Name | Backend | Frontend
 -----|---------|---------
 [Market](https://github.com/shiryel/test-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
-[Cryptocoins](https://github.com/shiryel/test-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
+[Cryptocoins](https://github.com/shiryel/challenge-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
 [Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fMongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg) ![Badge](https://img.shields.io/badge/-Sapper-teal.svg)
 
 ### :video_game: Games
