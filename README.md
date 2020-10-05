@@ -7,7 +7,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 
 ---
 
-:pill: `Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects`
+`Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects` :pill:
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
