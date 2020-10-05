@@ -9,6 +9,14 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 
 Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects :pill:
 
+### :star2: Reference small projects 
+For job interviews and self-reminder
+Name | Backend | Frontend
+-----|---------|---------
+[Market](https://github.com/shiryel/test-market) | ![Badge](https://img.shields.io/badge/-Elixir-HotPink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-Plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-RoyalBlue.svg) |
+[Cryptocoins](https://github.com/shiryel/test-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-HotPink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-Plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-RoyalBlue.svg) |
+[Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-HotPink.svg) ![Badge](https://img.shields.io/badge/-RestFull-SlateGrey.svg) ![Badge](https://img.shields.io/badge/-MongoDB-SeaGreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-Salmon.svg)
+
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
 -----|-------------|--------|------
@@ -21,7 +29,6 @@ Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
 [SAoS](https://shiryel.github.io/saos/) | A small component to make your CSS animations work on scroll with Svelte | [![NPM version](https://img.shields.io/npm/v/saos.svg?style=flat)](https://npmjs.org/package/saos) | [Link](https://github.com/shiryel/saos)
 Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.com/vinicius-molina/fatex/workflows/tests/badge.svg?branch=master) | [Link](https://github.com/shiryel/fatex)
 [Video P2P](https://www.webrtc.shiryel.com/) [WIP] | Attempt on creating a P2P web video calls | ![Server Push CD](https://github.com/shiryel/videochat_p2p/workflows/Server%20Push%20CD/badge.svg) ![Client Push CD](https://github.com/shiryel/videochat_p2p/workflows/Client%20Push%20CD/badge.svg) ![Server Test CI](https://github.com/shiryel/videochat_p2p/workflows/Server%20Test%20CI/badge.svg) | [Link](https://github.com/shiryel/videochat_p2p)
-
 
 ### :lock_with_ink_pen: Personal projects
 Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
