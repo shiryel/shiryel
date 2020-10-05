@@ -15,7 +15,7 @@ Name | Backend | Frontend
 -----|---------|---------
 [Market](https://github.com/shiryel/challenge-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
 [Cryptocoins](https://github.com/shiryel/challenge-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
-[Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fMongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg) ![Badge](https://img.shields.io/badge/-Sapper-teal.svg)
+[Complains](https://github.com/shiryel/challenge-complains) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fMongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg) ![Badge](https://img.shields.io/badge/-Sapper-teal.svg)
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
