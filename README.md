@@ -13,9 +13,9 @@ Now, you have 2 choices, you can take the blue pill and leave or take the red pi
 For job interviews and self-reminder
 Name | Backend | Frontend
 -----|---------|---------
-[Market](https://github.com/shiryel/test-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-royalblue.svg) |
-[Cryptocoins](https://github.com/shiryel/test-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-royalblue.svg) |
-[Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-MongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg)
+[Market](https://github.com/shiryel/test-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
+[Cryptocoins](https://github.com/shiryel/test-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
+[Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fMongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg) ![Badge](https://img.shields.io/badge/-Sapper-teal.svg)
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
