@@ -13,7 +13,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
 -----|-------------|--------|------
 :musical_note: [Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
-:pencil2: [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance) | [Link](https://github.com/shiryel/poligonic)
+:pencil2: [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/poligonic)
 
 ### :unlock: Open projects
 Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
