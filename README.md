@@ -10,7 +10,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 `Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects` :pill:
 
 ### :sparkles: Featured project
-`The project that I'm most working on`
+`The project that I'm currently most working on`
 
 [![Ryush Bot](https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight)](https://github.com/shiryel/ryush-bot)
 
