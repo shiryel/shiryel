@@ -1,4 +1,4 @@
-## [Hey you!, you're finally awake](https://youtu.be/_WZCvQ5J3pk)
+## :zzz: [Hey you! you're finally awake!](https://youtu.be/_WZCvQ5J3pk)
 
 Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is adviced!
 
@@ -7,7 +7,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 
 ---
 
-Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects :pill:
+:pill: `Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects`
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
@@ -33,7 +33,7 @@ Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 :tada: [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/dQw4w9WgXcQ)
 
 ### :star2: Reference small projects 
-For job interviews and self-reminder
+`For job interviews and self-reminder`
 Name | Backend | Frontend
 -----|---------|---------
 :1st_place_medal: [Market](https://github.com/shiryel/challenge-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
@@ -42,7 +42,7 @@ Name | Backend | Frontend
 
 ---
 
-##### Who am I?
+##### :feet: Who am I?
 
 Just a fenfen that loves to learn new things, mess around with some [ideas](https://www.shiryel.com/), draw and see some [fluffiness](https://http.cat/), 
 [mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/slze868xkPI)[cs](https://youtu.be/FF3Dr3_h0Hw) and
