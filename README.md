@@ -13,9 +13,9 @@ Now, you have 2 choices, you can take the blue pill and leave or take the red pi
 For job interviews and self-reminder
 Name | Backend | Frontend
 -----|---------|---------
-[Market](https://github.com/shiryel/test-market) | ![Badge](https://img.shields.io/badge/-Elixir-HotPink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-Plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-RoyalBlue.svg) |
-[Cryptocoins](https://github.com/shiryel/test-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-HotPink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-Plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-RoyalBlue.svg) |
-[Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-HotPink.svg) ![Badge](https://img.shields.io/badge/-RestFull-SlateGrey.svg) ![Badge](https://img.shields.io/badge/-MongoDB-SeaGreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-Salmon.svg)
+[Market](https://github.com/shiryel/test-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-royalblue.svg) |
+[Cryptocoins](https://github.com/shiryel/test-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-GraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-PostgreSQL-royalblue.svg) |
+[Complains](https://github.com/shiryel/reclameaqui-challenge) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-MongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg)
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
