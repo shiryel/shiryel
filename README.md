@@ -12,7 +12,11 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 ### :sparkles: Featured project
 `The project that I'm currently most working on`
 
-[![Ryush Bot](https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight)](https://github.com/shiryel/ryush-bot)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight" height="150" />
+  <img src="/ryush.png" height="149" /> 
+</p>
+
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
