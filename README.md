@@ -45,7 +45,7 @@ Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 `For job interviews and self-reminder`
 Name | Backend | Frontend
 -----|---------|---------
-:1st_place_medal: [Market](https://github.com/shiryel/challenge-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
+:1st_place_medal: [Market](https://github.com/shiryel/challenge-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Dataloader-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
 :2nd_place_medal: [Cryptocoins](https://github.com/shiryel/challenge-cryptocoins) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
 :3rd_place_medal: [Complains](https://github.com/shiryel/challenge-complains) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-RestFull-slategrey.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fMongoDB-seagreen.svg) | ![Badge](https://img.shields.io/badge/-Svelte-salmon.svg) ![Badge](https://img.shields.io/badge/-Sapper-teal.svg)
 
