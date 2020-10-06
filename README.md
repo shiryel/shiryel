@@ -12,10 +12,10 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 ### :sparkles: Featured project
 `The project that I'm currently most working on`
 
-<p float="left">
+<a href="https://github.com/shiryel/ryush-bot" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight" height="150" />
   <img src="/ryush.png" height="149" /> 
-</p>
+</a>
 
 
 ### :video_game: Games
