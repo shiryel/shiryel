@@ -1,4 +1,4 @@
-## :zzz: [Hey you! you're finally awake!](https://youtu.be/_WZCvQ5J3pk) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+## :zzz: [Hey you! you're finally awake!](https://youtu.be/_WZCvQ5J3pk) <img src="assets/space-cat.webp" height="40"> 
 
 Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is adviced!
 
@@ -17,12 +17,12 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 
 `Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects` :pill:
 
-### :sparkles: Featured project
+### :sparkles: Featured project <img src="assets/stubparrot.gif" height="30">
 `The project that I'm currently most working on`
 
 <a href="https://github.com/shiryel/ryush-bot" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight" height="150" />
-  <img src="/ryush.png" height="149" /> 
+  <img src="assets/ryush.png" height="149" /> 
 </a>
 
 ### :video_game: Games
@@ -58,7 +58,7 @@ Name | Backend | Frontend
 
 ---
 
-##### :feet: Who am I?
+#### :feet: Who am I? <img src="assets/kyubey.gif" height="30">
 
 Just a fenfen that loves to learn new things, mess around with some ideas, draw and see some [fluffiness](https://http.cat/), 
 [mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/slze868xkPI)[cs](https://youtu.be/FF3Dr3_h0Hw) and
@@ -67,7 +67,7 @@ Just a fenfen that loves to learn new things, mess around with some ideas, draw 
 Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
 > [My channel on telegram](https://t.me/shiryelden)
 
-![fennec](https://github.com/shiryel/shiryel/blob/master/fennec.jpg?raw=true)
+![fennec](assets/fennec.jpg)
 
 ---
 
