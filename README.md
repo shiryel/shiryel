@@ -1,4 +1,4 @@
-## :zzz: [Hey you! you're finally awake!](https://youtu.be/_WZCvQ5J3pk) <img src="assets/space-cat.webp" height="40"> 
+## :zzz: [𝙃𝙚𝙮 𝙮𝙤𝙪! 𝙮𝙤𝙪'𝙧𝙚 𝙛𝙞𝙣𝙖𝙡𝙡𝙮 𝙖𝙬𝙖𝙠𝙚!](https://youtu.be/_WZCvQ5J3pk) <img src="assets/space-cat.webp" height="40"> 
 
 Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is adviced!
 
@@ -17,7 +17,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 
 `Now, you have 2 choices, you can take the blue pill and leave or take the red pill and see some of my projects` :pill:
 
-### :sparkles: Featured project <img src="assets/stubparrot.gif" height="30">
+### :sparkles: 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 <img src="assets/stubparrot.gif" height="30">
 `The project that I'm currently most working on`
 
 <a href="https://github.com/shiryel/ryush-bot" float="left">
@@ -25,20 +25,20 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
   <img src="assets/ryush.png" height="149" /> 
 </a>
 
-### :video_game: Games
+### :video_game: 𝙂𝙖𝙢𝙚𝙨
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
 -----|-------------|--------|------
 :musical_note: [Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
 :pencil2: [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/poligonic)
 
-### :unlock: Open projects
+### :unlock: 𝙊𝙥𝙚𝙣 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
 -----|-------------|--------|------
 :balloon: [SAoS](https://shiryel.github.io/saos/) | A small component to make your CSS animations work on scroll with Svelte | [![NPM version](https://img.shields.io/npm/v/saos.svg?style=flat)](https://npmjs.org/package/saos) | [Link](https://github.com/shiryel/saos)
 :card_index: Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.com/vinicius-molina/fatex/workflows/tests/badge.svg?branch=master) | [Link](https://github.com/shiryel/fatex)
 :speech_balloon: [Video P2P](https://www.webrtc.shiryel.com/) [WIP] | Attempt on creating a P2P web video calls | ![Server Push CD](https://github.com/shiryel/videochat_p2p/workflows/Server%20Push%20CD/badge.svg) ![Client Push CD](https://github.com/shiryel/videochat_p2p/workflows/Client%20Push%20CD/badge.svg) ![Server Test CI](https://github.com/shiryel/videochat_p2p/workflows/Server%20Test%20CI/badge.svg) | [Link](https://github.com/shiryel/videochat_p2p)
 
-### :lock_with_ink_pen: Personal projects
+### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 -----|-------------|--------|------
 :notebook_with_decorative_cover: [My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Deploy to GitHub Pages](https://github.com/shiryel/shiryel_blog/workflows/Deploy%20to%20GitHub%20Pages/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
@@ -48,7 +48,7 @@ Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 :page_facing_up: Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoVim-configs)
 :tada: [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/dQw4w9WgXcQ)
 
-### :star2: Reference small projects 
+### :star2: 𝙍𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙚 𝙨𝙢𝙖𝙡𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 `For job interviews and self-reminder`
 Name | Backend | Frontend
 -----|---------|---------
@@ -58,7 +58,7 @@ Name | Backend | Frontend
 
 ---
 
-#### :feet: Who am I? <img src="assets/kyubey.gif" height="30">
+#### :feet: 𝙒𝙝𝙤 𝙖𝙢 𝙄 <img src="assets/kyubey.gif" height="30">
 
 Just a fenfen that loves to learn new things, mess around with some ideas, draw and see some [fluffiness](https://http.cat/), 
 [mu](https://youtu.be/cTLAZunyA38)[si](https://youtu.be/slze868xkPI)[cs](https://youtu.be/FF3Dr3_h0Hw) and
