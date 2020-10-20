@@ -2,8 +2,15 @@
 
 Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is adviced!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile" />
+<a href="https://github.com/anuraghazra/github-readme-stats" float="left">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+</a>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shiryel)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshiryel&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
@@ -16,7 +23,6 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight" height="150" />
   <img src="/ryush.png" height="149" /> 
 </a>
-
 
 ### :video_game: Games
 Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
