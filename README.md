@@ -7,7 +7,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </a>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Views](https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=shiryel)
