@@ -26,7 +26,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 </a>
 
 ### :video_game: 𝙂𝙖𝙢𝙚𝙨
-Name | Description | Status | [Zelda](https://youtu.be/Wl959QnD3lM)
+Name | Description | Status | [Zelda](https://youtu.be/JHY0PYZXvfU)
 -----|-------------|--------|------
 :musical_note: [Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
 :pencil2: [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/poligonic)
