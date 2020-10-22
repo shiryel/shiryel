@@ -46,7 +46,7 @@ Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 :computer: i3-gaps dotfiles | My old i3-gaps dotfiles |  | [Link](https://github.com/shiryel/i3gaps-dotfiles)
 :computer: NixOS dotfiles | My NixOS dotfiles |  | [Link](https://github.com/shiryel/nixos-dotfiles)
 :page_facing_up: Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoVim-configs)
-:tada: [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/dQw4w9WgXcQ)
+:tada: [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/hIputTTexwA)
 
 ### :star2: 𝙍𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙚 𝙨𝙢𝙖𝙡𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 `For job interviews and self-reminder`
