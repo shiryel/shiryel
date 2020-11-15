@@ -2,16 +2,20 @@
 
 Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is adviced!
 
-<a href="https://github.com/anuraghazra/github-readme-stats" float="left">
+<p align=center>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
-</a>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
-![Profile Views](https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=shiryel)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshiryel&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+</p>
+
+<p align=center>
+  <img src="https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=shiryel" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshiryel&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</p>
 
 ---
 
@@ -67,8 +71,9 @@ Just a fenfen that loves to learn new things, mess around with some ideas, draw 
 Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
 > [My channel on telegram](https://t.me/shiryelden)
 
-![fennec](assets/fennec.jpg)
-
+<p align="center">
+  <img src="assets/shiryel.png" height="500">
+</p>
 ---
 
 *side note: This is one of my crazy ideas after my shiryel repo [that originaly had a minigame] became "special" :kissing_smiling_eyes:*
