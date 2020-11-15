@@ -8,7 +8,7 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 </p>
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 <p align=center>
@@ -74,6 +74,7 @@ Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
 <p align="center">
   <img src="assets/shiryel.png" height="500">
 </p>
+
 ---
 
 *side note: This is one of my crazy ideas after my shiryel repo [that originaly had a minigame] became "special" :kissing_smiling_eyes:*
