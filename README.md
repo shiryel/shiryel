@@ -38,11 +38,11 @@ Name | Description | Status | [Zelda](https://youtu.be/JHY0PYZXvfU)
 ### :unlock: 𝙊𝙥𝙚𝙣 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
 -----|-------------|--------|------
-:pick: [MCX](https://github.com/shiryel/mcx) | A  project that aims to scale the vanilla minecraft servers |  [![Badge](https://img.shields.io/badge/-WIP-yellow.svg)](https://shields.io/) | [Link](https://github.com/shiryel/mcx)
-:robot: [Ryush](https://github.com/shiryel/ryush-bot) | Ryush is a discord bot specialized on automated tasks |  | [Link](https://github.com/shiryel/ryush-bot)
+:pick: MCX | A  project that aims to scale the vanilla minecraft servers |  [![Badge](https://img.shields.io/badge/-WIP-yellow.svg)](https://shields.io/) | [Link](https://github.com/shiryel/mcx)
+:robot: Ryush | Ryush is a discord bot specialized on automated tasks |  | [Link](https://github.com/shiryel/ryush-bot)
 :balloon: [SAoS](https://shiryel.github.io/saos/) | A small component to make your CSS animations work on scroll with Svelte | [![NPM version](https://img.shields.io/npm/v/saos.svg?style=flat)](https://npmjs.org/package/saos) | [Link](https://github.com/shiryel/saos)
 :card_index: Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.com/vinicius-molina/fatex/workflows/tests/badge.svg?branch=master) | [Link](https://github.com/shiryel/fatex)
-:speech_balloon: [Video P2P](https://www.webrtc.shiryel.com/) | Attempt on creating a P2P web video calls | [![Badge](https://img.shields.io/badge/-NOT%20FINISHED-red.svg)](https://shields.io/) | [Link](https://github.com/shiryel/videochat_p2p)
+:speech_balloon: Video P2P | Attempt on creating a P2P web video calls | [![Badge](https://img.shields.io/badge/-NOT%20FINISHED-red.svg)](https://shields.io/) | [Link](https://github.com/shiryel/videochat_p2p)
 
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
