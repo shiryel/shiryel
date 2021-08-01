@@ -24,23 +24,25 @@ Welcome to my litle tech space :paw_prints: **warning**: bugs ahead, caution is 
 ### :sparkles: 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 <img src="assets/stubparrot.gif" height="30">
 `The project that I'm currently most working on`
 
-<a href="https://github.com/shiryel/ryush-bot" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight" height="150" />
-  <img src="assets/ryush.png" height="149" /> 
+<a href="https://github.com/shiryel/rayex" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=rayex&theme=tokyonight" height="150" />
 </a>
 
 ### :video_game: 𝙂𝙖𝙢𝙚𝙨
 Name | Description | Status | [Zelda](https://youtu.be/JHY0PYZXvfU)
 -----|-------------|--------|------
-:musical_note: [Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
-:pencil2: [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/poligonic)
+:sunglasses: [The Elevator](https://github.com/RoxoFoxo/the-elevator) | Seriously, an elevator | [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/RoxoFoxo/the-elevator)
+:musical_note: [Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
+:pencil2: [Poligonic](https://play.google.com/store/apps/details?id=com.poligonicgames.poligonic) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-NOT%20FINISHED-red.svg)](https://shields.io/) | [Link](https://github.com/shiryel/poligonic)
 
 ### :unlock: 𝙊𝙥𝙚𝙣 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
 -----|-------------|--------|------
+:pick: [MCX](https://github.com/shiryel/mcx) | A  project that aims to scale the vanilla minecraft servers |  [![Badge](https://img.shields.io/badge/-WIP-yellow.svg)](https://shields.io/) | [Link](https://github.com/shiryel/mcx)
+:robot: [Ryush](https://github.com/shiryel/ryush-bot) | Ryush is a discord bot specialized on automated tasks |  | [Link](https://github.com/shiryel/ryush-bot)
 :balloon: [SAoS](https://shiryel.github.io/saos/) | A small component to make your CSS animations work on scroll with Svelte | [![NPM version](https://img.shields.io/npm/v/saos.svg?style=flat)](https://npmjs.org/package/saos) | [Link](https://github.com/shiryel/saos)
 :card_index: Fatex | My graduation thesis, a visual Latex wrapper | ![tests](https://github.com/vinicius-molina/fatex/workflows/tests/badge.svg?branch=master) | [Link](https://github.com/shiryel/fatex)
-:speech_balloon: [Video P2P](https://www.webrtc.shiryel.com/) [WIP] | Attempt on creating a P2P web video calls | ![Server Push CD](https://github.com/shiryel/videochat_p2p/workflows/Server%20Push%20CD/badge.svg) ![Client Push CD](https://github.com/shiryel/videochat_p2p/workflows/Client%20Push%20CD/badge.svg) ![Server Test CI](https://github.com/shiryel/videochat_p2p/workflows/Server%20Test%20CI/badge.svg) | [Link](https://github.com/shiryel/videochat_p2p)
+:speech_balloon: [Video P2P](https://www.webrtc.shiryel.com/) | Attempt on creating a P2P web video calls | [![Badge](https://img.shields.io/badge/-NOT%20FINISHED-red.svg)](https://shields.io/) | [Link](https://github.com/shiryel/videochat_p2p)
 
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
