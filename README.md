@@ -56,6 +56,7 @@ Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 
 ### :star2: 𝙍𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙚 𝙨𝙢𝙖𝙡𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 `For job interviews and self-reminder`
+
 Name | Backend | Frontend
 -----|---------|---------
 :1st_place_medal: [Market](https://github.com/shiryel/challenge-market) | ![Badge](https://img.shields.io/badge/-Elixir-hotpink.svg) ![Badge](https://img.shields.io/badge/-Phoenix-deeppink.svg) ![Badge](https://img.shields.io/badge/-Absinthe%2fGraphQL-plum.svg) ![Badge](https://img.shields.io/badge/-Dataloader-plum.svg) ![Badge](https://img.shields.io/badge/-Ecto%2fPostgreSQL-royalblue.svg) |
