@@ -75,7 +75,7 @@ Want to talk? [send-me a message](https://t.me/shiryel) :speech_balloon:
 > [My channel on telegram](https://t.me/shiryelden)
 
 <p align="center">
-  <img src="assets/shiryel2.png" height="500">
+  <img src="assets/shiryel.png" height="700">
 </p>
 
 ---
