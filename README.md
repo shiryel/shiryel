@@ -47,11 +47,10 @@ Name | Description | Status | [Zelda](https://youtu.be/oiuyhxp4w9I)
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | [Zelda](https://youtu.be/Tt7bzxurJ1I)
 -----|-------------|--------|------
-:notebook_with_decorative_cover: [My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Deploy to GitHub Pages](https://github.com/shiryel/shiryel_blog/workflows/Deploy%20to%20GitHub%20Pages/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
-:computer: Sway dotfiles | My current Linux configuration, with Sway and wayland |  | [Link](https://github.com/shiryel/sway-dotfiles)
-:computer: i3-gaps dotfiles | My old i3-gaps dotfiles |  | [Link](https://github.com/shiryel/i3gaps-dotfiles)
-:computer: NixOS dotfiles | My NixOS dotfiles |  | [Link](https://github.com/shiryel/nixos-dotfiles)
+:computer: NixOS dotfiles |My current Linux configuration, NixOS, Sway and wayland |  | [Link](https://github.com/shiryel/nixos-dotfiles)
 :page_facing_up: Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoVim-configs)
+:notebook_with_decorative_cover: [My blog](https://www.blog.shiryel.com/) | A static blog made with svelte/sapper | ![Deploy to GitHub Pages](https://github.com/shiryel/shiryel_blog/workflows/Deploy%20to%20GitHub%20Pages/badge.svg) | [Link](https://github.com/shiryel/shiryel_blog)
+:computer: i3-gaps dotfiles | My old arch i3-gaps dotfiles |  | [Link](https://github.com/shiryel/i3gaps-dotfiles)
 :tada: [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/hIputTTexwA)
 
 ### :star2: 𝙍𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙚 𝙨𝙢𝙖𝙡𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
